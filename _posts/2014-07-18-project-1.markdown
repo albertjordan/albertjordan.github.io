@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Experiment with hyperlinks.  CARIAD announced in Barcelona the launch of the first white lable automotive [website ([https://stackoverflow.com](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html))][appstore].
+description: Experiment with hyperlinks.  CARIAD announced in Barcelona the launch of the first white lable [automotive appstore](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html).
 
 ---
