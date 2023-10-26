@@ -7,6 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Experiment with hyperlinks.  CARIAD announced in Barcelona the launch of the first white lable
-Automotive App Store
+description: Test test test
 ---
