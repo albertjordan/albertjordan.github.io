@@ -8,5 +8,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Experiment with hyperlinks.  CARIAD announced in Barcelona the launch of the first white lable
-<a href="[https://www.mozilla.org/en-US/](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html)">Automotive App Store</a>
+Automotive App Store
 ---
