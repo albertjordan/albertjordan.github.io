@@ -13,6 +13,6 @@ description: Test...   i want a hyperlink here......
 ## CARIAD try 3
 
 Andoid App.automotive was launched in 
-[MWC Barcelona]({% link www.google.com) %})
+[MWC Barcelona]({% link www.google.com %})
 
 
