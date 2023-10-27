@@ -13,7 +13,6 @@ description: Test...   i want a hyperlink here......
 ## CARIAD try 3
 
 Andoid App.automotive was launched in 
-[MWC Barcelona]({% link https:www.google.com](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html)https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html %})
+[MWC Barcelona]({% link www.google.com) %})
 
 
-[Link to a page]({% link test_sub.md %})
