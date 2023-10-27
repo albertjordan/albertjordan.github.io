@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 modal-id: 1
 date: 2023-03-18
 img: AndroidAppStore.png
@@ -8,6 +8,9 @@ project-date: March 2023
 client: VW Group
 category: Automotive Applications
 description: Test Default again
+line 2
+line 3
+https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html
 ---
 
 ## Header
