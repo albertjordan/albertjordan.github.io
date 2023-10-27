@@ -7,7 +7,7 @@ alt: image-alt
 project-date: March 2023
 client: VW Group
 category: Automotive Applications
-description: Test Default again
+description: Test Default again [Android Automotive App Store](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html)
 ---
 
 ## Header
