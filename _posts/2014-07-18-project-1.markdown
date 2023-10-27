@@ -11,10 +11,11 @@ external_url: www.google.com
 description: Test...   i want a hyperlink here......
 ---
 
-## CARIAD try 4
+## CARIAD try 5
 
 Andoid App.automotive was launched in 
+[google](www.google.com)
 
-[{{ post.title }}]({{ post.external_url }})
+
 
 
