@@ -14,7 +14,7 @@ description: Test...   i want a hyperlink here......
 ## CARIAD try 5
 
 Andoid App.automotive was launched in 
-[google](www.google.com)
+[google](post.external_url)
 
 
 
