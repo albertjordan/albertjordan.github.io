@@ -14,7 +14,7 @@ description: Test...   i want a hyperlink here......
 ## CARIAD try 5
 
 Andoid App.automotive was launched in 
-[app store](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html){:target="_blank"}
+[app store](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html)
 
 
 
