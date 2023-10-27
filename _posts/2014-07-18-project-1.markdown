@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 modal-id: 1
 date: 2023-03-18
 img: myimage.png
@@ -7,14 +7,14 @@ alt: image-alt
 project-date: March 2023
 client: customerXs
 category: typeY
-description: Test Page 
+description: Test  {% www.google.com %}
 ---
 
 ## Header
 
-this text doesn't show if layout: default
+this text doesn't show if layout: default  
 if I change to
-layout: post
+layout: post or page
 
 I get the text but the rest of the portal disappears.... I only get this page...
 [link](https:www.google.com)
