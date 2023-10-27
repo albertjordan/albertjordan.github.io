@@ -7,12 +7,14 @@ alt: image-alt
 project-date: March 2023
 client: customerXs
 category: typeY
+external_url: www.google.com
 description: Test...   i want a hyperlink here......
 ---
 
-## CARIAD try 3
+## CARIAD try 4
 
 Andoid App.automotive was launched in 
-[Link To A Page](/www.google.com/)
+
+[{{ post.title }}]({{ post.external_url }})
 
 
