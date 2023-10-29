@@ -2,13 +2,12 @@
 layout: default
 modal-id: 1
 date: 2023-03-18
-img: AndroidAppStore.png
+img: AppStore.png
 alt: image-alt
 project-date: March 2023
-client: customerXs
-category: typeY
-external_url: https://www.google.com
-description: Test...   i want a hyperlink here......
+client: VW Group, 3 other OEMs
+category: Automotive SaaS
+description: Whit Label Android Automotive App Store
 ---
 
 ## CARIAD try 5
