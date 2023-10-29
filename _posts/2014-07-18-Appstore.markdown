@@ -9,9 +9,11 @@ client: VW Group, 3 other OEMs
 category: Automotive SaaS
 ---
 
-## CARIAD try 5
+### CARIAD try 5
 
-Andoid App.automotive was launched in 
+ <div style="text-align: left">
+#####
+Andoid App.automotive was launched in barcelona.
 [app store](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html)
 
 
