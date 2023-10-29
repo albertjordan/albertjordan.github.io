@@ -9,13 +9,36 @@ client: VW Group, 3 other OEMs
 category: Automotive SaaS
 ---
 
-### White-Label SaaS Solution
+#### White-Label SaaS Solution
 
  <div style="text-align: left">
 
 <br>
-The App Store was first announced in 
+
+In 2018, as the market was adopting Android, saw an opportunity for a white label Android Automotive App Store, which would allow OEMs to harness the benefits of Android, while maintaining control. Forged early partnerships with likes of HERE and  
+<a href="https://www.tomtom.com/products/tomtom-digital-cockpit/partners/harman-ignite/">TomTom</a>
+for navigation, and  
+ 
+<a href="https://www.bloomberg.com/press-releases/2022-11-03/soundhound-and-harman-join-forces-to-deliver-an-effortless-conversational-voice-ai-experience-to-auto-customers">SoundHound</a>
+and
+<a href="https://cerence.com/news-releases/news-release-details/cerence-voice-enable-vehicle-app-store-platform-harman">Cerence</a> 
+for voice assistant to construct an end-to-end solution that provided an equivalent solution to Google Automotive Services (GAS) offer.
+
+<br>
+Drove development of a compelling demonstration, and devised an aggressive customer validation plan, which led to issuence of RFI/RFP from multiple global OEMS. Assembled a small, but highly effective partnership team to ensure availability of wide range of applications.  Successfuly on boarded marquee App providers such as Spotfiy, Amazon Music, Tune-In.  Also paid attention to 
+
+<br>
+Consistently focused on continous development process improvement to ensure product alignment with changing market and customer requirements.
+
+<br>
+
+The product was launched in 
 <a href="https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html">Barcelona</a>
+by the CARIAD group.  Four other OEMs were secured, though not publicly announced.  In total, was able to secure multiple hundreds of million dollars in booking in just three years.  
+
+
+<br>
+The App Store was first announced in 
 
 <br>
 I got partnerships with 
