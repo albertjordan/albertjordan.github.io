@@ -34,8 +34,7 @@ Drove development of a compelling demonstration, and devised an aggressive custo
 
 
 <a href="https://what3words.com/news/general/what3words-and-harman-introduce-an-enhanced-navigation-offering">What3Words</a> 
-
-ARD
+,
 <a href="https://news.harman.com/releases/harman-and-ard-to-enrich-the-in-vehicle-multi-media-experience-with-new-collaboration">ARD</a> 
 
 to ensure support for wide range of domains.
