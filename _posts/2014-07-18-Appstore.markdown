@@ -25,25 +25,42 @@ and
 for voice assistant to construct an end-to-end solution that provided an equivalent solution to Google Automotive Services (GAS) offer.
 
 <br>
-Drove development of a compelling demonstration, and devised an aggressive customer validation plan, which led to issuence of RFI/RFP from multiple global OEMS. Assembled a small, but highly effective partnership team to ensure availability of wide range of applications.  Successfuly on boarded marquee App providers such as Spotfiy, Amazon Music, Tune-In.  Also paid attention to 
+<br>
+Drove development of a compelling demonstration, and devised an aggressive customer validation plan, which led to issuance of RFI/RFP from multiple global OEMS. Assembled a small, but highly effective partnership team to ensure availability of wide range of automotive applications.  Implmented a "Rolling Thunder" PR strategy by successfuly onboarding marquee App providers such as 
+<a href="https://news.harman.com/releases/harman-and-spotify-collaborate-to-usher-in-new-generation-of-automotive-streaming-experience">Spotify</a>
+, Amazon Music, and 
+<a href="https://www.auto-innovations.net/news/48572-tunein-and-harman-to-deliver-the-ultimate-audio-streaming-experience-for-automotive-manufacturers">Tune-In</a>
+, as well as differentiated applications such as 
+
+
+<a href="https://what3words.com/news/general/what3words-and-harman-introduce-an-enhanced-navigation-offering">What3Words</a> 
+
+ARD
+<a href="https://news.harman.com/releases/harman-and-ard-to-enrich-the-in-vehicle-multi-media-experience-with-new-collaboration">ARD</a> 
+
+to ensure support for wide range of domains.
+
 
 <br>
-Consistently focused on continous development process improvement to ensure product alignment with changing market and customer requirements.
+<br>
+Finally forged relationship with big content providers not traditionally in automotive space such as 
+<a href="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2023/m06/cisco-partners-with-audi-cariad-and-harman-to-elevate-hybrid-work-innovation-in-automotive.html">Cisco</a> , 
+Zoom, and The Weather Channel to compel development of new applications for automotive.  
+
 
 <br>
+<br>
+Consistently focused on continous development process improvement to ensure product alignment with changing market and customer requirements.  Ensured availability of a solid 
+developer portal
+<a href="https://www.just-auto.com/interview/harman-offers-hub-for-android-automotive-developers/">Developer Portal</a> , 
+, which facilitated on-boarding of 3rd party app providers.
 
-The product was launched in 
+
+
+<br>
+<br>
+The product was puclicly launched in 
 <a href="https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html">Barcelona</a>
-by the CARIAD group.  Four other OEMs were secured, though not publicly announced.  In total, was able to secure multiple hundreds of million dollars in booking in just three years.  
+by  CARIAD, and at time of launch was able to secure more than seventy applications.  Four other OEMs were secured, though not publicly announced.  In total, was able to secure multiple hundreds of million dollars in booking in just three years.  
 
 
-<br>
-The App Store was first announced in 
-
-<br>
-I got partnerships with 
-<a href="https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html">Cisco</a>
-,
-<a href="https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html">Spotify</a>
-,
-<a href="https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html">IBM</a>
