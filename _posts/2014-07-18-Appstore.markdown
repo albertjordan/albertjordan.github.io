@@ -12,6 +12,7 @@ category: Automotive SaaS
 ### White Label SaaS Solution
 
  <div style="text-align: left">
+  
 #####
 Andoid App.automotive was launched in barcelona.
 [app store](https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html)
