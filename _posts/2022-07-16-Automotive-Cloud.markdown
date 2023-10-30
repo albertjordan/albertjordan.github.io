@@ -7,8 +7,10 @@ alt: image-alt
 project-date: April 2022
 client: Start Bootstrap
 category: Web Development
-description: Automotive Cloud IoT Platform
 ---
+
+ <div style="text-align: left">
+
 <br>
 <br>
 my first responsibility at Harman was to deliver the Ignite Automotive Cloud Platform.  The solution allowed abstraction of the car in the cloud, on top of an IoT layer, to allow rapid development of cloud based solutions.  Initially, multiple product assets where cherry picked to create a single product.  Attention was given to establishig a development process that allowed a streamlined development activity.
