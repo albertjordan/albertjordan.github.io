@@ -7,12 +7,10 @@ alt: image-alt
 project-date: April 2014
 client: AT&T, Sprint
 category: Connected Services
-description: OBD Based Connected Car Service
 ---
 Some text here..  to be added later...
 
 
-#### Connected Car Service
 
  <div style="text-align: left">
 <br>
