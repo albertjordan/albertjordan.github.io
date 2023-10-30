@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: product
 modal-id: 2
 date: 2019-03-01
 img: obd.png
