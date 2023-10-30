@@ -58,8 +58,8 @@ developer portal
 
 <br>
 <br>
-The product was puclicly launched in 
+The product was publicly launched in 
 <a href="https://cariad.technology/de/en/news/stories/launch-application-store-for-volkswagen-group.html">Barcelona</a>
-by  CARIAD, and at time of launch was able to secure more than seventy applications.  Four other OEMs were secured, though not publicly announced.  In total, was able to secure multiple hundreds of million dollars in booking in just three years.  
+by  CARIAD, and at time of launch was able to secure more than seventy applications, as well as four other OEMs, though they are not publicly announced.  In total, was able to secure multiple hundreds of million dollars in booking in just three years from scratch.  
 
 
