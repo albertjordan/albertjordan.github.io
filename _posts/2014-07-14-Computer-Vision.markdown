@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: project
 modal-id: 5
 date: 2018-07-14
 img: vision.png
