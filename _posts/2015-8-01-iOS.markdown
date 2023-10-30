@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: project
 modal-id: 6
 date: 2013-07-14
 img: swift.png
