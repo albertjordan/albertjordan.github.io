@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: product
 modal-id: 3
 date: 2021-06-19
 img: ignite.png
