@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: product
 modal-id: 1
 date: 2023-03-18
 img: AppStore.png
