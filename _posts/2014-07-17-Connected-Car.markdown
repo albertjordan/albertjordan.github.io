@@ -4,13 +4,10 @@ modal-id: 2
 date: 2019-03-01
 img: obd.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2021
 client: AT&T, Sprint
 category: Connected Services
 ---
-Some text here..  to be added later...
-
-
 
  <div style="text-align: left">
 <br>
