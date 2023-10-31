@@ -27,8 +27,8 @@ disqus_shortname: myshortname
 color:
   primary: bc8018 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: 524c40 #FD6E8A
+  secondary-dark: 402a23 #A2122F
 
 # Footer settings
 footer:
@@ -54,7 +54,7 @@ address:
   - line: Menlo Park, CA 94025
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Design based on Freelancer Jekyll theme template created by Jerome Lachaud.'
 
 # Build settings
 markdown: kramdown
