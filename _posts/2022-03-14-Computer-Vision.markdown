@@ -5,7 +5,7 @@ modal-id: 5
 date: 2018-07-14
 img: vision.png
 alt: image-alt
-project-date: July 2022
+project-date: March 2022
 client: NA
 category: Machine Learning
 description: Computer Vision Engineering Nanodegree
