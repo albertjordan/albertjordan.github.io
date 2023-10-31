@@ -2,10 +2,10 @@
 layout: default
 categories: project
 modal-id: 5
-date: 20238-09-14
-img: vision.png
+date: 2023-09-14
+img: reinforcement.png
 alt: image-alt
-project-date: March 2022
+project-date: October 2023
 client: NA
 category: Machine Learning
 description: Udacity Nano Degree
