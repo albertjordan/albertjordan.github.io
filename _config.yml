@@ -50,8 +50,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 178 Stanford Ave
-  - line: Menlo Park, CA 94025
+  - line: Menlo Park, CA 
 
 # Credits content
 credits: 'Design based on Freelancer Jekyll theme template created by Jerome Lachaud.'
