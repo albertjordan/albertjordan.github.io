@@ -14,7 +14,7 @@ category: Web Development
 
 <br>
 <br>
-my first responsibility at Harman was to deliver the Ignite Automotive Cloud Platform.  The solution allowed abstraction of the car in the cloud, on top of an IoT layer, to allow rapid development of cloud based solutions.  Initially, multiple product assets where cherry picked to create a single product.  Attention was given to establishig a development process that allowed a streamlined development activity.
+My first responsibility at Harman was to deliver the Ignite Automotive Cloud Platform.  The solution allowed abstraction of the car in the cloud, on top of an IoT layer, to allow rapid development of cloud based solutions.  Initially, multiple product assets where cherry picked to create a single product.  Attention was given to establishig a development process that allowed a streamlined development activity.
 <br>
 <br>
 The product was selected by Fiat Chrysler Automobilites (FCA) within the first year of development.  It was depoyed in US, the EU, asia and China.  For deployment in China led negotiations with Chinese cloud and service produce to first secure the licneses necessary for operating the service in China, and second a suitable replacement of AWS cloud in China. 
