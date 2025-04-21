@@ -9,38 +9,26 @@ project-date: January 2012
 client: Hyundai, Jaguar Landrover
 category: Connected Services
 ---
+![Visual of Feature 1](img/portfolio/android_auto.png)
 
-Android Auto
-Industry’s first commercial Android Auto receiver. • Negotiated a $200K POC contract with Hyundai. • Managed delivery of a projected mode POC
-showcased at CES.
-• Led the discussion with Google and Hyundai to
-propose an OAA compliant receiver architecture
-that leveraged POC.
-• Program managed delivery of product to enable
-first Android Auto commercial launch.
+### Industry's First Android Auto Deployment
+Industry’s first commercial Android Auto receiver. Negotiated a $500K POC contract with Hyundai, Honda • Managed delivery of a projected mode POC
+showcased at CES. Led the discussion with Google and Hyundai to propose an OAA compliant receiver architecture that leveraged POC. Managed team of engineers to deliber the receiver that led to the commercial deployment of the fist Andrid Auto solution in the industry.
 
 
-justDrive 1.0
-A projected automotive experience. Non modal, voice driven.
-• Developed requirements that allowed transition of a demo to a commercial grade service.
-• Acting VP engineering during Beta phase.
-• Drove development of standalone validation tests
+![Visual of Feature 1](img/portfolio/justdrive.png)
+### justDrive
+Managed the engineering team that Delivered a projected automotive experience at Jaguar Landrover, an early example of voice first experience. Developed requirements that allowed transition of a demo to a commercial grade service. Drove development of standalone validation tests
 to expedite integration with Nuance, Bosch, and HERE SDKs.
-justDrive 2.0
-Embedded product.
-Open APIs to allow customizable HMI.
-• Drove modification of UX to incorporate a
-consistent and predictive touch based HMI.
-• Led discussions and negotiations with an OEM
-and Tier 1 to deliver a POC as a first step
-towards a commercial launch.
+The project was a big success, with JLR customers indicating the projected experience was superior to the embedded experience.  This led to creation of a project that led to a $15M investment in CloudCar, and a partnership with LG, to deliver the experience.  
+ 
 
 
 
-Modular Head Unit Reference
-A head unit reference design that allows hardware upgrades.
-• Convinced NVIDIA to design a
-Tegra 3 compute fabric.
-• Led design and implementation
+![Visual of Feature 2](img/portfolio/modular.png)
+### Modular Head Concept
+Convinced NVIDIA to design a Tegra 3 compute fabric. Led prototype design and implementation
 of a 1-DIN head unit prototype, with replaceable display and compute elements and installed in 20 cars.
-• Negotiated a $100K evaluation agreement with LG, which has led to a commercial development opportunity.
+Negotiated a $100K evaluation agreement with LG, which has led to a commercial development opportunity.
+
+
