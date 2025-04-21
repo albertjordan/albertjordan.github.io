@@ -9,14 +9,14 @@ project-date: January 2012
 client: Hyundai, Jaguar Landrover
 category: Connected Services
 ---
-![Visual of Feature 1](img/portfolio/android_auto.png)
+![](img/portfolio/android_auto.png)
 
 ### Industry's First Android Auto Deployment
 Industry’s first commercial Android Auto receiver. Negotiated a $500K POC contract with Hyundai, Honda • Managed delivery of a projected mode POC
 showcased at CES. Led the discussion with Google and Hyundai to propose an OAA compliant receiver architecture that leveraged POC. Managed team of engineers to deliber the receiver that led to the commercial deployment of the fist Andrid Auto solution in the industry.
 
 
-![Visual of Feature 1](img/portfolio/justdrive.png)
+![](img/portfolio/justdrive.png)
 ### justDrive
 Managed the engineering team that Delivered a projected automotive experience at Jaguar Landrover, an early example of voice first experience. Developed requirements that allowed transition of a demo to a commercial grade service. Drove development of standalone validation tests
 to expedite integration with Nuance, Bosch, and HERE SDKs.
@@ -25,7 +25,7 @@ The project was a big success, with JLR customers indicating the projected exper
 
 
 
-![Visual of Feature 2](img/portfolio/modular.png)
+![](img/portfolio/modular.png)
 ### Modular Head Concept
 Convinced NVIDIA to design a Tegra 3 compute fabric. Led prototype design and implementation
 of a 1-DIN head unit prototype, with replaceable display and compute elements and installed in 20 cars.
