@@ -13,31 +13,35 @@ description: Personalized Real Estate Agent
 
 <div style="text-align: left;" markdown="1">
 ### Project Introduction
-Imagine you're a talented developer at "Future Homes Realty", a forward-thinking real estate company. In an industry where personalization is key to customer satisfaction, your company wants to revolutionize how clients interact with real estate listings. The goal is to create a personalized experience for each buyer, making the property search process more engaging and tailored to individual preferences.
-<div>
+This is the final project for Udacity's Gen AI nano degree course.  
+The project implements a real estate listing application. In an industry where personalization is key to customer satisfaction, the ficticious company wants to revolutionize how clients interact with real estate listings. The goal is to create a personalized experience for each buyer, making the property search process more engaging and tailored to individual preferences.
+</div>
 
 <div style="text-align: left;" markdown="1">
 ### The Challenge
 The task is to develop an innovative application named "HomeMatch". This application leverages large language models (LLMs) and vector databases to transform standard real estate listings into personalized narratives that resonate with potential buyers' unique preferences and needs.
-<div>
+</div>
 
 <div style="text-align: left;" markdown="1">
 
-### Core Components of "HomeMatch"
-Understanding Buyer Preferences:
+### Core Components"
+There are two components, implemented in Google Colab notebooks.  Colab was selected because the solution required GPU for image generation.
 
-Buyers will input their requirements and preferences, such as location, property type, budget, amenities, and lifestyle choices.
-The application uses LLMs to interpret these inputs in natural language, understanding nuanced requests beyond basic filters.
-Integrating with a Vector Database:
+In process_Listings.ipynb I first use openAI to get a list of neighborhoods in San Francisco.  Then for each neigborhood I come up with a ficticious listing, and a description that is based on the characteristic of the selected neighborhood.  I also use the description to generate an image of the property.  Below are two samples:
 
-Connect "HomeMatch" with a vector database, where all available property listings are stored.
-Utilize vector embeddings to match properties with buyer preferences, focusing on aspects like neighborhood vibes, architectural styles, and proximity to specific amenities.
-Personalized Listing Description Generation:
+</div>
+![](img/portfolio/sf_realestate.png)
+<br><br>
 
-For each matched listing, use an LLM to rewrite the description in a way that highlights aspects most relevant to the buyer’s preferences.
-Ensure personalization emphasizes characteristics appealing to the buyer without altering factual information about the property.
-Listing Presentation:
-
-Output the personalized listing(s) as a text description of the listing.
+<div style="text-align: left;" markdown="1">
+The second component if the find_home.ipynb.  Given a list of customer preferences, the code searches for properties that match the user request.  The description of the property is modified to match the user preferences.  Also, the images are vectorized, so the code searches the images for the description.  For example, if the user had indicated that they wanted a property with good views, the code searches the images for that and comes up with the following options:
+</div>
+![](img/portfolio/views.png)
+<br><br>
 
 <div>
+
+<div style="text-align: left;">
+  <a href="https://github.com/albertjordan/Personalized_Real_Estate_Agent" target="_blank">View project on GitHub</a>
+</div>
+
